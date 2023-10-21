@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/10/21 20:26:02.000.862,=C:\Users\Raul\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/10/21 20:26:02.000.936,=C:\Users\Raul\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/10/21 21:39:38.000.297,C:\Users\Raul\Desktop\program\project about notpad\Unit1.cpp=C:\Users\Raul\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/10/21 21:39:38.000.297,C:\Users\Raul\Desktop\program\project about notpad\Unit1.h=C:\Users\Raul\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/10/21 21:39:38.000.297,C:\Users\Raul\Desktop\program\project about notpad\Unit1.dfm=C:\Users\Raul\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/10/21 21:39:46.000.024,C:\Users\Raul\Desktop\program\project about notpad\Project1PCH1.h=C:\Users\Raul\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/10/21 21:39:46.000.044,C:\Users\Raul\Desktop\program\project about notpad\Project1.cbproj=C:\Users\Raul\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
